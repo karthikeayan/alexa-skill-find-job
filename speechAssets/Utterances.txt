@@ -1,3 +1,6 @@
-HelloWorldIntent hello
-HelloWorldIntent say hello
-HelloWorldIntent say hello world
+FindJobIntent job
+FindJobIntent find job
+FindJobIntent find me a job
+FindJobIntent get me a job
+FindJobIntent i need a job
+FindJobIntent i need job

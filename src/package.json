@@ -1,26 +1,26 @@
 {
-  "name": "skill-sample-nodejs-hello-world",
+  "name": "alexa-skill-find-job",
   "version": "1.0.0",
-  "description": "Hello world sample skill",
+  "description": "Find Job Skill",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-hello-world.git"
+    "url": "git+https://github.com/karthikeayan/alexa-skill-find-job.git"
   },
   "keywords": [
-    "helloworld",
+    "findjob",
     "alexa",
     "skill"
   ],
   "author": "Amazon.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/alexa/skill-sample-nodejs-hello-world/issues"
+    "url": "https://github.com/karthikeayan/alexa-skill-find-job/issues"
   },
-  "homepage": "https://github.com/alexa/skill-sample-nodejs-hello-world#readme",
+  "homepage": "https://github.com/karthikeayan/alexa-skill-find-job#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.0"
   }

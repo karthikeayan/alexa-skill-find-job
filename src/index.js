@@ -11,10 +11,10 @@ var handlers = {
     'LaunchRequest': function () {
         this.emit('SayHello');
     },
-    'HelloWorldIntent': function () {
-        this.emit('SayHello')
+    'FindJobIntent': function () {
+        this.emit('FindJob')
     },
-    'SayHello': function () {
-        this.emit(':tell', 'Hello World!');
+    'FindJob': function () {
+        this.emit(':tell', 'karthik & kishore are working on this skill, don\'t worry you will get a job!');
     }
 };
